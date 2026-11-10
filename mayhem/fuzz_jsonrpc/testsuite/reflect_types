@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "jsonrpc_reflect", "params": ["", 41, "str", true, [1, 2, [3]], {"k": "v", "n": [null]}], "id": "abc"}

@@ -1,0 +1,1 @@
+<?xml version="1.0"?><methodCall><methodName>string.split</methodName><params><param><value><string></string></value></param><param><value><string>a,b,c</string></value></param><param><value><string>,</string></value></param></params></methodCall>

@@ -1,0 +1,1 @@
+string.join=",",(string.length,abc),(string.lstrip,"  y")

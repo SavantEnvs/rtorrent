@@ -1,0 +1,9 @@
+project: savantenvs/rtorrent
+target: fuzz_command
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_command/testsuite
+cmds:
+  - cmd: /mayhem/mayhem/build/bin/fuzz_command
+    libfuzzer: true
+    timeout: 10

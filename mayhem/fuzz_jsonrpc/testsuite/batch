@@ -1,0 +1,1 @@
+[{"jsonrpc": "2.0", "method": "string.strip", "params": ["", "  pad  "], "id": 1}, {"jsonrpc": "2.0", "method": "jsonrpc_reflect", "id": 2}, {"jsonrpc": "2.0", "method": "no.such.method", "id": 3}]
